@@ -1,0 +1,6 @@
+.env
+build-mac/
+build-win/
+build/
+package/
+fingerpinger.zip

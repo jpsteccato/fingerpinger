@@ -1,0 +1,29 @@
+{
+  "name": "fingerpinger",
+  "displayname": "fingerpinger",
+  "version": "1.0.0",
+  "authors": [
+    "Michael & Max Egger",
+    "joe steccato"
+  ],
+  "description": "a max external for tracking fingers on a macbook trackpad",
+  "tags": [
+    "external",
+    "max",
+    "trackpad"
+  ],
+  "website": "https://github.com/jpsteccato/fingerpinger",
+  "max_version_min": "8.0",
+  "max_version_max": "none",
+  "extensible": 0,
+  "extends": "",
+  "homepatcher": "",
+  "os": {
+    "macintosh": {
+      "platform": [
+        "x64",
+        "aarch64"
+      ]
+    }
+  }
+}
